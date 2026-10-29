@@ -7,7 +7,7 @@ def json():
    marks = {
       "rohan": 65,
       "anita": 85,
-      "priya": 90
+      "priya": 85
    }
    return jsonify(marks)
 
